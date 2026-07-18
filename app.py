@@ -22,8 +22,8 @@ RESUME_URL = "?page=resume"   # all resume buttons point here
 # 🔗 EDIT ME: personal links, resume, and project URLs
 # ════════════════════════════════════════════════════════════════════════
 SOCIAL = {
-    "email": "mailto:priyadarshini01.r@gmail.com",
-    "email_display": "priyadarshini01.r@gmail.com",
+    "email": "mailto:priyadharshini.r.ds@gmail.com",
+    "email_display": "priyadharshini.r.ds@gmail.com",
     "phone": "+91 89760 66703",
     "linkedin": "https://www.linkedin.com/in/priyadharshini-r330",
     "github": "https://github.com/kyo330",
@@ -52,11 +52,7 @@ ROLE = "Data Scientist & Machine Learning Engineer"
 LOCATION = "Chennai, TN, India"
 
 TAGLINE = (
-    "I love turning messy, real-world signals, like satellite lightning data, "
-    "electricity markets, and a single RGB photo, into models and pipelines people "
-    "can actually trust and act on. Always excited to pick up a new tool, dig into "
-    "a new problem, and see where it leads, so if you're building something "
-    "interesting, let's talk!"
+    "I build things like RAG pipelines that make oil & gas documents auditable, algorithms that stitch satellite data into lightning flashes, and a pipeline that turns one RGB photo into a 3D mesh. I like problems messy enough to be interesting, and I'm always up for learning something new, so if you're building something too, let's talk!"
 )
 
 ABOUT = """
